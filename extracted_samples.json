@@ -1,0 +1,1168 @@
+{
+  "1g8IycqoeneS1kz5JYMeP2fwuDvHi-dSJ": {
+    "examHeader": "Notre Dame College, Chemistry Quiz, Date: 01/10/2024, Full Marks-20 × 5 = 100",
+    "questions": [
+      {
+        "number": "১",
+        "type": "MCQ",
+        "stem": "বর্ণালীর সিরিজের ক্ষেত্রে -",
+        "text": "i) প্যাশন সিরিজের β রেখার তরঙ্গ দৈর্ঘ্য 225/16R_H ii) e⁻ টি P-Shell থেকে M-Shell আসার সময় λ=1.09×10⁻⁶m iii) ব্রাকেট সিরিজের বিকিরণ মানবদেহের জন্য ঝুঁকিপূর্ণ; নিচের কোনটি সঠিক?",
+        "subQuestions": [],
+        "options": [
+          "(ক) i",
+          "(খ) i ও ii",
+          "(গ) ii ও iii",
+          "(ঘ) i, ii ও iii"
+        ],
+        "marks": "১০×১ = ১০"
+      },
+      {
+        "number": "২",
+        "type": "MCQ",
+        "stem": "H এর e⁻ টির কৌণিক ভরবেগ 3.1652×10⁻³⁴ Kgm²sec⁻¹ হলে, e⁻ যদি (n-1) স্তরে ফিরে আসে তাহলে ṽ কত?",
+        "text": null,
+        "subQuestions": [],
+        "options": [
+          "(ক) 9.75×10⁶m⁻¹",
+          "(খ) 2.056×10⁶m⁻¹",
+          "(গ) 1.523×10⁶m⁻¹",
+          "(ঘ) 1.253×10⁶m⁻¹"
+        ],
+        "marks": null
+      },
+      {
+        "number": "৩",
+        "type": "MCQ",
+        "stem": "{3,2, (0,±1, ±2); 5(+½)} মৌলটি হবে -",
+        "text": "i) Mn  ii) Cr  iii) Fe নিচের কোনটি সঠিক?",
+        "subQuestions": [],
+        "options": [
+          "(ক) i",
+          "(খ) i ও ii",
+          "(গ) i ও iii",
+          "(ঘ) i, ii ও iii"
+        ],
+        "marks": null
+      },
+      {
+        "number": "৪",
+        "type": "MCQ",
+        "stem": "নিচের তথ্যগুলো লক্ষ্য কর -",
+        "text": "i) ¹³C আইসোটোপটির অবস্থান ২য় পর্যায় ও গ্রুপ 14 ii) আইসোটোনে প্রোটন থেকে নিউট্রন সংখ্যা বেশি থাকে iii) N₂, CO, P⁺ হলো সম ইলেকট্রন বিশিষ্ট। কোনটি সঠিক?",
+        "subQuestions": [],
+        "options": [
+          "(ক) i ও ii",
+          "(খ) i ও iii",
+          "(গ) ii ও iii",
+          "(ঘ) i, ii ও iii"
+        ],
+        "marks": null
+      },
+      {
+        "number": "৫",
+        "type": "MCQ",
+        "stem": null,
+        "text": "নিচের কোন অরবিটালের শক্তি বেশি?",
+        "subQuestions": [],
+        "options": [
+          "(ক) 3, 1, -1, +½",
+          "(খ) 3, 2, -2, -½",
+          "(গ) 4, 1, 0, +½",
+          "(ঘ) 4, 0, 0, +½"
+        ],
+        "marks": null
+      },
+      {
+        "number": "৬",
+        "type": "MCQ",
+        "stem": null,
+        "text": "নিচের কোনটি সঠিক নয়?",
+        "subQuestions": [],
+        "options": [
+          "(ক) অযুగ్ম e⁻ এর ক্ষেত্রে Mn⁺>Cr⁺>Fe²⁺",
+          "(খ) m এর মানের জন্য l এর মান m-1/2",
+          "(গ) d অরবিটালের Angular node 2টি",
+          "(ঘ) বোর পরমাণু মডেল দ্বারা e⁻ এর দ্বৈত নীতি ব্যাখ্যা করা যায়"
+        ],
+        "marks": null
+      },
+      {
+        "number": "৭",
+        "type": "MCQ",
+        "stem": null,
+        "text": "H পরমাণুর প্রাং সিরিজের সর্বোচ্চ তরঙ্গ দৈর্ঘ্য বিশিষ্ট বিকিরণটির কম্পাঙ্ক হবে?",
+        "subQuestions": [],
+        "options": [
+          "(ক) 3/4 R_H C",
+          "(খ) R_H C",
+          "(গ) 13/1764 R_H C",
+          "(ঘ) R_H C/36"
+        ],
+        "marks": null
+      },
+      {
+        "number": "৮",
+        "type": "MCQ",
+        "stem": null,
+        "text": "শিখা পরীক্ষার ক্ষেত্রে কোনটি সঠিক নয়?",
+        "subQuestions": [],
+        "options": [
+          "(ক) এটি একটি শুষ্ক পরীক্ষা",
+          "(খ) লবণের ক্ষারীয়মূলক শনাক্ত করণ করা হয়",
+          "(গ) Pt তার ব্যবহার হয় কারণ তা HCl সাথে বিক্রিয়া করে",
+          "(ঘ) বুনসেন বার্নারের অনুজ্জ্বল শিখা ব্যবহার হয়"
+        ],
+        "marks": null
+      },
+      {
+        "number": "৯",
+        "type": "MCQ",
+        "stem": "Ni²⁺ এর শেষ অরবিটালের ইলেকট্রনের ক্ষেত্রে কোয়ান্টাম সংখ্যার সেট -",
+        "text": "i) 3, 2, -2, +½ ii) 3, 1, -1, -½ iii) 3, 2, 0, -½ কোনটি সঠিক?",
+        "subQuestions": [],
+        "options": [
+          "(ক) i ও ii",
+          "(খ) i ও iii",
+          "(গ) ii ও iii",
+          "(ঘ) i, ii ও iii"
+        ],
+        "marks": null
+      },
+      {
+        "number": "১০",
+        "type": "MCQ",
+        "stem": "H বর্ণালীতে বিকিরিত ফোটনের শক্তি 5×10⁻¹²erg হলে উত্তেজিত e⁻ টি কোন শক্তি স্তর থেকে ফিরে এসেছে? λ = 3.98×10⁻⁷m",
+        "text": null,
+        "subQuestions": [],
+        "options": [
+          "(ক) 2",
+          "(খ) 4",
+          "(গ) 6",
+          "(ঘ) 7"
+        ],
+        "marks": null
+      },
+      {
+        "number": "১১",
+        "type": "CQ",
+        "stem": "(i) লাল বর্ণ পাওয়ার জন্য x ও y দুই ছাত্র H এর উপর 2.064×10⁵ J/mol শক্তি প্রেরণ করেন। কিন্তু তারা কাঙ্ক্ষিত বর্ণ দেখতে পায়না। তাই কাঙ্ক্ষিত বর্ণ পেতে x ছাত্র 2.4×10⁴J/mol শক্তি বৃদ্ধি করেন এবং y ছাত্র 2.4×10⁴J/mol শক্তি হ্রাস করেন।\n(ii) Rb এর যোজ্যতা স্তরের ইলেকট্রন বিন্যাস ns¹।",
+        "text": null,
+        "subQuestions": [
+          "(ক) হুন্ডের নীতি বিবৃতি লিখ।",
+          "(খ) রেখা বর্ণালীর সাহায্যে কিভাবে মৌল শনাক্তকরণ করা যায় ব্যাখ্যা কর।",
+          "(গ) উদ্দীপকের (ii) এ উল্লেখিত মৌলের (n-1) শক্তি স্তরের সর্বাধিক upspin থাকা e⁻ সংখ্যা কোয়ান্টাম সংখ্যার ছকের সাহায্যে নির্ণয় কর।",
+          "(ঘ) উদ্দীপকে কাঙ্ক্ষিত বর্ণ পাওয়ার ক্ষেত্রে কোন ছাত্রের পদক্ষেপ সঠিক হয়েছিল? গাণিতিকভাবে বিশ্লেষণ কর।"
+        ],
+        "options": [],
+        "marks": "১+২+৩+৪"
+      }
+    ]
+  },
+  "1C5YXLl9Ev10Ps7erJjBQyXU8m19hx-E7": {
+    "examHeader": "I-Sc. 1-14\nBangla Quiz\nFull Marks-20x5 = 100\nDate: 19/09/2024",
+    "questions": [
+      {
+        "number": "১",
+        "type": "CQ",
+        "stem": "অমিত ও লাবণ্য অনেকদিন ধরে একই অফিসে চাকরি করছে, কিন্তু সহকর্মীরা জানে না তাদের দুজনের অন্তরে লুকিয়ে আছে গভীর ক্ষত। লাবণ্যকে নিজে পছন্দ করে বিয়ে করতে চেয়েছিল অমিত। বছর তিনেক আগে লোক খাওয়ানো নিয়ে বিয়ে ভেঙে যায় তাদের। পিতৃহীন অমিত কাকার আশ্রয়ে মানুষ, তাই কাকার দোষ জেনেও প্রতিবাদ করতে পারেনি তখন। একদিন লাবণ্যের কাছে নিজের মনোবেদনার কথা তুলে ধরে অমিত। বলে, লাবণ্যের জন্য সে সারাজীবন অপেক্ষা করবে। একটা দীর্ঘশ্বাস ফেলে লাবণ্য বলে, “আবার কেন? চলছে তো ভালোই।”",
+        "text": "১। অমিত ও লাবণ্য অনেকদিন ধরে একই অফিসে চাকরি করছে, কিন্তু সহকর্মীরা জানে না তাদের দুজনের অন্তরে লুকিয়ে আছে গভীর ক্ষত। লাবণ্যকে নিজে পছন্দ করে বিয়ে করতে চেয়েছিল অমিত। বছর তিনেক আগে লোক খাওয়ানো নিয়ে বিয়ে ভেঙে যায় তাদের। পিতৃহীন অমিত কাকার আশ্রয়ে মানুষ, তাই কাকার দোষ জেনেও প্রতিবাদ করতে পারেনি তখন। একদিন লাবণ্যের কাছে নিজের মনোবেদনার কথা তুলে ধরে অমিত। বলে, লাবণ্যের জন্য সে সারাজীবন অপেক্ষা করবে। একটা দীর্ঘশ্বাস ফেলে লাবণ্য বলে, “আবার কেন? চলছে তো ভালোই।”",
+        "subQuestions": [
+          "(ক) 'অন্তঃপুর' শব্দের অর্থ কী? ১",
+          "(খ) “প্রমাণ হইয়া গেছে, আমি কেহই নই।” - কে কোন প্রসঙ্গে এ-কথা বলেছে? ব্যাখ্যা করো। ২",
+          "(গ) উদ্দীপকের অমিত চরিত্রের সাথে 'অপরিচিতা' গল্পের কোন চরিত্রটি সাদৃশ্যপূর্ণ এবং কীভাবে? আলোচনা করো। ৩",
+          "(ঘ) উদ্দীপকটি 'অপরিচিতা' গল্পের মূল বক্তব্যকে কতটা ধারণ করতে পেরেছে? তোমার মতের পক্ষে যুক্তি দাও। ৪"
+        ],
+        "options": [],
+        "marks": null
+      },
+      {
+        "number": "২",
+        "type": "CQ",
+        "stem": "“বার্ধক্যকে সব সময় বয়সের ফ্রেমে বাঁধা যায় না। কত যুবককে দেখিয়াছি- যাহাদের যৌবনের উপরি নিচে বার্ধক্যের কঙ্কালমূর্তি। আবার বহু বৃদ্ধকে দেখিয়াছি- যাহাদের বার্ধক্যের জীর্ণাবরণের তলে মেঘ-পুঞ্জ সূর্যের মতো প্রদীপ্ত যৌবন। তরুণ নামের জয়মুকুট শুধু তাহার যাহার শক্তি অপরিমাপ, গতিবেগ ঝঞ্ঝার ন্যায়, তেজ নির্মেঘ আষাঢ়-মধ্যাহ্নের মার্তণ্ডপ্রায়, বিপুল যাহার আশা, ক্লান্তিহীন যাহার উৎসাহ, বিরাট যাহার ঔদার্য, অকুণ্ঠ যাহার সাধনা, মৃত্যু যাহার মুঠিতলে।”",
+        "text": "অথবা\n২। “বার্ধক্যকে সব সময় বয়সের ফ্রেমে বাঁধা যায় না। কত যুবককে দেখিয়াছি- যাহাদের যৌবনের উপরি নিচে বার্ধক্যের কঙ্কালমূর্তি। আবার বহু বৃদ্ধকে দেখিয়াছি- যাহাদের বার্ধক্যের জীর্ণাবরণের তলে মেঘ-পুঞ্জ সূর্যের মতো প্রদীপ্ত যৌবন। তরুণ নামের জয়মুকুট শুধু তাহার যাহার শক্তি অপরিমাপ, গতিবেগ ঝঞ্ঝার ন্যায়, তেজ নির্মেঘ আষাঢ়-মধ্যাহ্নের মার্তণ্ডপ্রায়, বিপুল যাহার আশা, ক্লান্তিহীন যাহার উৎসাহ, বিরাট যাহার ঔদার্য, অকুণ্ঠ যাহার সাধনা, মৃত্যু যাহার মুঠিতলে।”",
+        "subQuestions": [
+          "(ক) সুকান্ত ভট্টাচার্য যে সংঘের পক্ষে 'আকাল' কাব্যগ্রন্থ সম্পাদনা করেছিলেন, তার নাম কী? ১",
+          "(খ) 'দুর্যোগে হাল ঠিকমতো রাখা ভার' বলতে কী বোঝানো হয়েছে? ব্যাখ্যা করো। ২",
+          "(গ) উদ্দীপকের সাথে 'আঠারো বছর বয়স' কবিতার কোন দিকটি সাদৃশ্যপূর্ণ? আলোচনা করো। ৩",
+          "(ঘ) “বার্ধক্যকে সব সময় বয়সের ফ্রেমে বাঁধা যায় না।” - এই মন্তব্যের সাথে তুমি কি একমত? উদ্দীপক ও 'আঠারো বছর বয়স' কবিতার আলোকে তোমার মতের পক্ষে যুক্তি দাও। ৪"
+        ],
+        "options": [],
+        "marks": null
+      },
+      {
+        "number": "৩",
+        "type": "Short",
+        "stem": null,
+        "text": "৩। এক কথায় উত্তর দাও :",
+        "subQuestions": [
+          "(ক) কোন গল্প রচনার মাধ্যমে ছোটগল্প লেখক হিসেবে রবীন্দ্রনাথ ঠাকুরের আত্মপ্রকাশ ঘটে?",
+          "(খ) গল্পগুচ্ছ-এর কোন খণ্ডে 'অপরিচিতা' গল্পটি অন্তর্ভুক্ত হয়?",
+          "(গ) মাটির খোলের দুপাশে চামড়া লাগানো কোন বাদ্যযন্ত্রের নাম 'অপরিচিতা' গল্পে উল্লেখ আছে?",
+          "(ঘ) 'ঘরে-বাইরে' কোন ধরনের রচনা?",
+          "(ঙ) রেলগাড়িতে আলোর নিচে কোন রঙের পর্দা টানা ছিল?",
+          "(চ) বিপদের মুখে আঠারো বছর বয়স কেমন?",
+          "(ছ) 'আঠারো বছর বয়স' কবিতাটি কোন ছন্দে রচিত?",
+          "(জ) সুকান্ত ভট্টাচার্যের মায়ের নাম কী?",
+          "(ঝ) সুকান্ত ভট্টাচার্য কত তারিখে মৃত্যুবরণ করেন?",
+          "(ঞ) আঠারো বছর বয়সে কী উঁকি দেয়?"
+        ],
+        "options": [],
+        "marks": null
+      }
+    ]
+  },
+  "1Xg5q_RKdKGbRTK1kFfh3pXky4cUVs9NF": {
+    "examHeader": "I-Sc. 1-14 Mathematics Quiz Full Marks-25×4=100 Date: 08/10/2024",
+    "questions": [
+      {
+        "number": "১",
+        "type": "MCQ",
+        "stem": "যদি A = [0 2k-1 √k ; 1-2k 0 2√k ; -√k -2√k 0]",
+        "text": "হয় তবে |A| = ?",
+        "subQuestions": [],
+        "options": [
+          "(ক) k",
+          "(খ) 2k²",
+          "(গ) 0",
+          "(ঘ) √k"
+        ],
+        "marks": "১×৫=৫"
+      },
+      {
+        "number": "২",
+        "type": "MCQ",
+        "stem": "নির্ণায়কে |1 4 -3 ; 2 -1 x ; 16 2 8|",
+        "text": "(1,2)th সহগুণক -4 হলে x এর মান কত?",
+        "subQuestions": [],
+        "options": [
+          "(ক) 1",
+          "(খ) 2",
+          "(গ) 3",
+          "(ঘ) 4"
+        ],
+        "marks": null
+      },
+      {
+        "number": "৩",
+        "type": "MCQ",
+        "stem": null,
+        "text": "A, B, C ম্যাট্রিক্সের ক্রম যথাক্রমে 3 × 4, 4 × 3 এবং 2 × 3 হলে (Aᵀ + B)Cᵀ এর ক্রম -",
+        "subQuestions": [],
+        "options": [
+          "(ক) 2 × 3",
+          "(খ) 4 × 2",
+          "(গ) 2 × 4",
+          "(ঘ) 3 × 2"
+        ],
+        "marks": null
+      },
+      {
+        "number": "৪",
+        "type": "MCQ",
+        "stem": null,
+        "text": "(1 3 ; 0 -1) ম্যাট্রিক্সটি -",
+        "subQuestions": [],
+        "options": [
+          "(ক) প্রতিসম",
+          "(খ) শূন্যঘাতী",
+          "(গ) অভেদঘাতী",
+          "(ঘ) সমঘাতী"
+        ],
+        "marks": null
+      },
+      {
+        "number": "৫",
+        "type": "MCQ",
+        "stem": "[a11 a12 a13 ; a21 a22 a23 ; a31 a32 a33]",
+        "text": "ম্যাট্রিক্সের trace কত?",
+        "subQuestions": [],
+        "options": [
+          "(ক) a11 + a22 + a33",
+          "(খ) a31 + a22 + a13",
+          "(গ) a31 × a22 × a13",
+          "(ঘ) a11 × a22 × a33"
+        ],
+        "marks": null
+      },
+      {
+        "number": "৬",
+        "type": "CQ",
+        "stem": "দৃশ্যকল্প-১: A = [2 1 5 ; -1 4 3 ; 4 -7 5] এবং f(t) = t² - 5t + 3\nদৃশ্যকল্প-২: x/5 - 2y/5 + z = x + y/4 + 3z/4 = x/3 - y + 2z/3 = 1",
+        "text": null,
+        "subQuestions": [
+          "(ক) A⁻¹ = 1/5 [5 1 ; 3 2] হলে, A ম্যাট্রিক্সটি নির্ণয় কর।",
+          "(খ) দৃশ্যকল্প-১ হতে, f(A) নির্ণয় কর।",
+          "(গ) দৃশ্যকল্প-২ এ বর্ণিত সমীকরণ জোটটি ক্রেমারের নিয়মে সমাধান কর।"
+        ],
+        "options": [],
+        "marks": null
+      },
+      {
+        "number": "৭",
+        "type": "CQ",
+        "stem": "উদ্দীপক -১: A = (1 0 0 ; 0 1 1 ; 0 -2 4); I = (1 0 0 ; 0 1 0 ; 0 0 1)\nদৃশ্যকল্প-২: A = ((b+c)² a² bc ; (c+a)² b² ca ; (a+b)² c² ab)",
+        "text": null,
+        "subQuestions": [
+          "(ক) বিস্তার না করে প্রমাণ কর যে, |1 bc bc(b+c) ; 1 ca ca(c+a) ; 1 ab ab(a+b)| = |a 1 b+c ; b 1 c+a ; c 1 a+b| = 0",
+          "(খ) উদ্দীপক -১ হতে, A⁻¹ = 1/6 (A² + αA + βI) হলে α ও β এর মান কত?",
+          "(গ) দৃশ্যকল্প-২ হতে দেখাও যে, det(A) = (a² + b² + c²)(a + b + c)(a - b)(b - c)(c - a)"
+        ],
+        "options": [],
+        "marks": null
+      }
+    ]
+  },
+  "1BndxGOpx5_S0_L0MHqezQ7z8mVFYu9rZ": {
+    "examHeader": "I-Sc. 1-14 English Quiz Date: 24/09/2024 Full Marks-25x4 = 100",
+    "questions": [
+      {
+        "number": "1",
+        "type": "Short",
+        "stem": "Determined to become an astronaut even in the face of the space shuttle Challenger disaster on 28 January 1986 that led to the deaths of its seven crew members, Chawla joined NASA in 1988. She began working as a Vice President where she did Computational Fluid Dynamics (CFD) research on vertical take-off and landing. In 1991 she got U.S. citizenship and started her career as a NASA astronaut in 1995. She was selected for her first flight in 1996. She spoke the following words while travelling in the weightlessness of space, \"You are just your intelligence.\" She had travelled 10.67 million miles, as many as 252 times around the Earth.\nHer first space mission (Mission STS 87) began on 19 November 1997 with six other astronauts on the Space Shuttle Columbia. On her first mission that lasted for 15 days, 16 hours, 34 minutes and 4 seconds, she travelled 6.5 million miles. She was responsible for deploying the Spartan Satellite which however malfunctioned, necessitating a spacewalk by Winston Scott and Tako Doi, two of her fellow astronauts, to retrieve the satellite.\nIn 2000 she was selected for her second space mission STS 107. This mission was repeatedly delayed due to scheduling conflicts and technical problems. On 16 January 2003, Kalpana Chawla finally started her new mission with six other space crew on the ill-fated space shuttle Columbia. She was one of the mission specialists. Chawla's responsibilites included the microgravity experiments, for which the crew conducted nearly 80 experiments studying earth and space science, advanced technology development, and astronaut health and safety.",
+        "text": "Read the following passage and answer the questions A and B.",
+        "subQuestions": [],
+        "options": [],
+        "marks": null
+      },
+      {
+        "number": "A.",
+        "type": "MCQ",
+        "stem": null,
+        "text": "Choose the correct answer from the alternatives.",
+        "subQuestions": [
+          "(a) The expression 'responsibility' is best construed as (i) incumbency (ii) autonomy (iii) prerogative (iv) opulence",
+          "(b) The term 'retrieved' is most analogous to (i) forsaken (ii) salvaged (iii) obliterated (iv) relinquished",
+          "(c) Which option contradicts the meaning of 'necessitated'? (i) obviated (ii) warranted (iii) stipulated (iv) demanded",
+          "(d) The STS 107 mission faced multiple delays primarily due to (i) external diplomatic conflicts (ii) incompatible timelines and operational hurdles (iii) deficient crew training (iv) spacecraft design flaws",
+          "(e) During her inaugural mission, Kalpana Chawla was tasked with (i) conducting microgravity experiments (ii) orchestrating the Spartan Satellite deployment (iii) undertaking a spacewalk (iv) overseeing astronaut health protocols"
+        ],
+        "options": [],
+        "marks": "1x5=5"
+      },
+      {
+        "number": "B.",
+        "type": "Short",
+        "stem": null,
+        "text": "Answer the following questions.",
+        "subQuestions": [
+          "(a) What were the primary objectives and tasks undertaken during Mission STS 87?",
+          "(b) What factors contributed to the deferment of Mission STS 107?",
+          "(c) What duties and roles did Chawla fulfill during her second space expedition?",
+          "(d) How can the statement \"You are just your intelligence\" be interpreted?",
+          "(e) Under what conditions did Chawla begin her career at NASA?"
+        ],
+        "options": [],
+        "marks": "3x5=15"
+      },
+      {
+        "number": "2.",
+        "type": "Short",
+        "stem": "Nelson Mandela, imbued (a) -------- a passion for justice and accustomed to struggle, guided South Africa from the shackles of apartheid to a multi-racial democracy. (b) -------- being bereft (c) -------- freedom for nearly three decades, his resolve faded (d) -------- a broader movement for reconciliation. He clung (e) -------- his ideals and reflected (f) -------- the necessity of peace, indifferent to the harshness of imprisonment. Even after retiring in 2004, he told his countrymen, \"Don't call me. I'll call you,\" longing (g) -------- a quieter life but still indebted to his commitment to human rights. His fight (h) -------- racial prejudice told (i) -------- his legacy as he became a symbol of freedom and equality, resonating (j) -------- his nation, throughout the world.",
+        "text": "Fill in the blanks with suitable prepositions.",
+        "subQuestions": [],
+        "options": [],
+        "marks": "0.5x10=5"
+      }
+    ]
+  },
+  "11k9no1TmahWPkBYUl_IyXBSfERlcpEEQ": {
+    "examHeader": "I-Sc. 15, 16, 17\nEnglish Quiz\nFull Marks-25x4 = 100\nDate: 19/09/2024",
+    "questions": [
+      {
+        "number": "1",
+        "type": "CQ",
+        "stem": "Nelson Mandela guided South Africa from the shackles of apartheid to a multi-racial democracy, as an icon of peace and reconciliation who came to embody the struggle for justice around the world.\nImprisoned for nearly three decades for his fight against white minority rule, Mandela never lost his resolve to fight for his people's emancipation. He was determined to bring down apartheid while avoiding a civil war. His prestige and charisma helped him win the support of the world.\n\"I hate race discrimination most intensely and in all its manifestations. I have fought it all during my life; I will fight it now, and will do so until the end of my days,\" Mandela said in his acceptance speech on becoming South Africa's first black president in 1994,... \"The time for the healing of the wounds has come. The moment to bridge the chasms that divide us has come.\"\n\"We have, at last, achieved our political emancipation.\"\nIn 1993, Mandela was awarded the Nobel Peace Prize, an honor he shared with F.W. de Klerk, the white African leader who had freed him from prison three years earlier and negotiated the end of apartheid.\nMandela went on to play a prominent role on the world stage as an advocate of human dignity in the face of challenges ranging from political repression to AIDS.",
+        "text": "Read the following passage and answer the questions A and B.",
+        "subQuestions": [],
+        "options": [],
+        "marks": null
+      },
+      {
+        "number": "A",
+        "type": "MCQ",
+        "stem": null,
+        "text": "Choose the correct answer from the alternatives.",
+        "subQuestions": [
+          "(a) 'Shackles of apartheid' in the passage signifies (i) an unbreakable chain of human races (ii) an indiscernible curb (iii) cuffs made of metal (iv) a corporeal retribution.",
+          "(b) The word 'reconciliation' is not relevant to (i) animosity (ii) pacifism (iii) amalgamation (iv) armistice.",
+          "(c) Grammatically, 'an honor he shared with F.W. de Klerk,' in the passage is called (i) a vocative, (ii) a possessive, (iii) a nominative, (iv) an appositive.",
+          "(d) The phrase 'to bring down' refers to (i) vilify (ii) nullify (iii) fortify (iv) signify.",
+          "(e) Which is not a false statement as per the text? (i) Mandela fought dubiously against the white rulers. (ii) Mandela disdained the racist demonstrations. (iii) Mandela wanted to heal the injured blacks. (iv) Mandela was resolute in abolishing pacifism."
+        ],
+        "options": [],
+        "marks": "1x5=5"
+      },
+      {
+        "number": "B",
+        "type": "Short",
+        "stem": null,
+        "text": "Answer the following questions.",
+        "subQuestions": [
+          "(a) What were the key reasons for Nelson Mandela's imprisonment and how did his imprisonment contribute to his legacy?",
+          "(b) Why can we consider Mandela a strategic politician?",
+          "(c) How did Mandela attain international acknowledgement?",
+          "(d) Briefly describe ‘The moment to bridge the chasms that divide us has come.’",
+          "(e) How would you evaluate Mandela's leadership on domestic and international grounds?"
+        ],
+        "options": [],
+        "marks": "3x5=15"
+      },
+      {
+        "number": "2",
+        "type": "Short",
+        "stem": "Fill in the blanks with suitable prepositions.\nManufactured by Rockwell International and operated by NASA, Space Shuttle Columbia was popular (a) --------- the rigorous demands of space travel and was rich (e) --------- scientific endeavors. NASA modified Columbia --------- the need for longer missions, teeming (g) --------- opportunities to atone (h) --------- past tragedies and bestow (i) --------- humanity new knowledge. Sadly, on its final descent in 2003, Columbia came (j) --------- fatal conditions and disintegrated over Texas.",
+        "text": "Fill in the blanks with suitable prepositions.\nManufactured by Rockwell International and operated by NASA, Space Shuttle Columbia was popular (a) --------- . It went (c) --------- 28 missions, adhering (d) --------- scientists, keen (b) --------- pushing the boundaries of space exploration. [Note: The source text structure provided in the prompt contains overlapping segments, transcribed here as the logical flow presented].",
+        "subQuestions": [],
+        "options": [],
+        "marks": "0.5x10=5"
+      }
+    ]
+  },
+  "1OqWSfO8kf7pOyOela9Z45SQlBgGO1uMn": {
+    "examHeader": "Biology Quiz Date: 07/11/2024 ROLL NO. Full Marks-20 × 5 = 100 Name: ...........................",
+    "questions": [
+      {
+        "number": "১",
+        "type": "MCQ",
+        "stem": null,
+        "text": "দ্বিপদ নামকরণের ক্ষেত্রে গণ ও প্রজাতির নাম একই হলে তাকে কি বলে?",
+        "subQuestions": [],
+        "options": [
+          "(ক) ট্যাক্সন",
+          "(খ) টটোনিনম",
+          "(গ) ক্যাটাগরি",
+          "(ঘ) হায়ারার্কি"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "২",
+        "type": "MCQ",
+        "stem": null,
+        "text": "কোনটি চলন অঙ্গ?",
+        "subQuestions": [],
+        "options": [
+          "(ক) নেফ্রিডিয়া ও সিটি",
+          "(খ) শিখা কোষ ও প্যারাপোডিয়া",
+          "(গ) টিউব ফিট ও সিটি",
+          "(ঘ) র‍্যাডুলা ও মাংসল পদ"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "৩",
+        "type": "MCQ",
+        "stem": null,
+        "text": "স্পঞ্জসিল যে কোষ দিয়ে আবৃত থাকে তা হল -",
+        "subQuestions": [],
+        "options": [
+          "(ক) অ্যামিবোসাইট",
+          "(খ) পোরোসাইট",
+          "(গ) ফ্ল্যাগোসাইট",
+          "(ঘ) কোয়ানোসাইট"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "৪",
+        "type": "MCQ",
+        "stem": null,
+        "text": "নিচের গঠনে কোন পর্ব অংশগ্রহণ করে?",
+        "subQuestions": [],
+        "options": [
+          "(ক) Echinodermata",
+          "(খ) Platyhelminthes",
+          "(গ) Arthropoda",
+          "(ঘ) Cnidaria"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "৫",
+        "type": "MCQ",
+        "stem": null,
+        "text": "কোন অঙ্গগুলো যথাক্রমে শ্বসন, রেচন ও চলনে ভূমিকা রাখে-",
+        "subQuestions": [],
+        "options": [
+          "(ক) ম্যান্টল পর্দা, মাংসল পদ ও নেফ্রিডিয়া",
+          "(খ) ট্রাকিয়া, মালপিজিয়ান নালিকা ও কঙ্কাল গ্রন্থি",
+          "(গ) নালিকা পদ, শিখাকোষ ও নালিকা পদ",
+          "(ঘ) বুকগিল, নালিকা পদ ও সবুজ গ্রন্থি"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "৬",
+        "type": "MCQ",
+        "stem": null,
+        "text": "নিচের কোন প্রাণীটি অ্যাসিলোমেট?",
+        "subQuestions": [],
+        "options": [
+          "(ক) Ascaris lumbricoides",
+          "(খ) Taenia solium",
+          "(গ) Metaphire posthuma",
+          "(ঘ) Loa loa"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "৭",
+        "type": "MCQ",
+        "stem": null,
+        "text": "কোন পর্বে পরজীবী নেই?",
+        "subQuestions": [],
+        "options": [
+          "(ক) Platyhelminthes",
+          "(খ) Arthropoda",
+          "(গ) Nematoda",
+          "(ঘ) Echinodermata"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "৮",
+        "type": "MCQ",
+        "stem": null,
+        "text": "Echinodermata-র লার্ভা-",
+        "subQuestions": [],
+        "options": [
+          "(ক) পঞ্চঅরীয় প্রতিসম ও নিশ্চল",
+          "(খ) পঞ্চঅরীয় প্রতিসম ও সাঁতারু",
+          "(গ) দ্বিপার্শ্বীয় প্রতিসম ও নিশ্চল",
+          "(ঘ) দ্বিপার্শ্বীয় প্রতিসম ও সাঁতারু"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "৯",
+        "type": "MCQ",
+        "stem": "চ্যাপ্টা কৃমির ক্ষেত্রে প্রযোজ্য- i. ত্রিস্তরী ও অ্যাসিলোমেট ii. অ্যাসিলোমেট ও পরিপাক নালি অসম্পূর্ণ iii. পরজীবী ও অঙ্গ বিদ্যমান,",
+        "text": "কোন সঠিক?",
+        "subQuestions": [],
+        "options": [
+          "(ক) i ও ii",
+          "(খ) ii ও iii",
+          "(গ) i ও iii",
+          "(ঘ) i, ii ও iii"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "১০",
+        "type": "MCQ",
+        "stem": null,
+        "text": "কোনটি সঠিক জোড়?",
+        "subQuestions": [],
+        "options": [
+          "(ক) সেপিয়া- Mollusca",
+          "(খ) সমুদ্র শসা- Annelida",
+          "(গ) ব্রটল তারা- Platyhelminthes",
+          "(ঘ) জেলিফিস- Porifera"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "১১",
+        "type": "Short",
+        "stem": "দেহগহ্বর যুক্ত প্রাণী → দেহগহ্বরটি মেসোডার্মাল উদ্ভূত পেরিটোনিয়াম পর্দা আবৃত নয় (X) / দেহগহ্বরটি মেসোডার্মাল উদ্ভূত পেরিটোনিয়াম পর্দা আবৃত (Y) → পঞ্চঅরীয় প্রতিসম (A) / দেহ ট্যাগমাটায় বিভক্ত (B) / রক্ত হিমোএরিথ্রিন যুক্ত (C)",
+        "text": "সৃজনশীল প্রশ্ন:",
+        "subQuestions": [
+          "(ক) প্রাণী বৈচিত্র্য কি?",
+          "(খ) হাইড্রা ও প্রজাপতির প্রতিসাম্যতার পার্থক্য লিখ?",
+          "(গ) উদ্দীপকের X ও Y এর চিত্রসহ তুলনামূলক আলোচনা কর।",
+          "(ঘ) উদ্দীপকের A, B ও C বৈশিষ্ট্যযুক্ত প্রাণীদের পর্বগুলোর মধ্যে কোনটি উন্নত, ব্যাখ্যা কর?"
+        ],
+        "options": [],
+        "marks": "১+২+৩+৪"
+      }
+    ]
+  },
+  "1Fu3FchbuhE41Fy-bXAE-uztPqoM-9X2j": {
+    "examHeader": "I-Sc. 1-14 Information & Com. Tech. Quiz Full Marks-20×5=100 Date: 29/10/2024",
+    "questions": [
+      {
+        "number": "১",
+        "type": "MCQ",
+        "text": "অ্যাসিনক্রোনাস ট্রান্সমিশনের সর্বোচ্চ দক্ষতা কত হতে পারে?",
+        "options": [
+          "(ক) ৯৭.০৫%",
+          "(খ) ৮০.০০%",
+          "(গ) ৭২.৭৩%",
+          "(ঘ) ৬৬.২৫%"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "২",
+        "type": "MCQ",
+        "text": "ফ্যাক্স কোন মোডে চলে?",
+        "options": [
+          "(ক) সিমপ্লেক্স মোড",
+          "(খ) হাফ-ডুপ্লেক্স মোড",
+          "(গ) ফুল ডুপ্লেক্স মোড",
+          "(ঘ) মাল্টিমোড"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "৩",
+        "type": "MCQ",
+        "text": "ইমেইল এর জন্য প্রয়োজনীয় ব্যান্ডউইথ কত Mbps?",
+        "options": [
+          "(ক) ০.৫",
+          "(খ) ০.৭",
+          "(গ) ১.৫",
+          "(ঘ) ৪"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "৪",
+        "type": "MCQ",
+        "text": "নিচের কোনটি কৃত্রিম বুদ্ধিমত্তায় ব্যবহৃত ভাষা নয়?",
+        "options": [
+          "(ক) LABART",
+          "(খ) PROLOG",
+          "(গ) CLISP",
+          "(ঘ) R"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "৫",
+        "type": "MCQ",
+        "text": "নিচের কোনটি জনপ্রিয় মার্কেট প্লেস? i. Upwork ii. Freelancer iii. Belancer; নিচের কোনটি সঠিক?",
+        "options": [
+          "(ক) i",
+          "(খ) i ও ii",
+          "(গ) i ও iii",
+          "(ঘ) i, ii ও iii"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "৬",
+        "type": "MCQ",
+        "text": "বায়োইনফরমেট্রিক্স পদ্ধতি গঠিত হতে কেনটির প্রয়োজন নেই? i. পদার্থ ii. ডেটাবেজ iii. পরিসংখ্যান; নিচের কোনটি সঠিক?",
+        "options": [
+          "(ক) i",
+          "(খ) i ও ii",
+          "(গ) i ও iii",
+          "(ঘ) i, ii ও iii"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "৭",
+        "type": "Short",
+        "text": "ডিএনএ ম্যাপিং এর জন্য ব্যবহৃত হয় কোন প্রযুক্তি?",
+        "marks": "১"
+      },
+      {
+        "number": "৮",
+        "type": "Short",
+        "text": "মানবদেহে অটোজোম আছে কতটি?",
+        "marks": "১"
+      },
+      {
+        "number": "৯",
+        "type": "Short",
+        "text": "GMO এর পূর্ণরূপ লেখ।",
+        "marks": "১"
+      },
+      {
+        "number": "১০",
+        "type": "Short",
+        "text": "অগমেন্ট শব্দের অর্থ কী?",
+        "marks": "১"
+      },
+      {
+        "number": "১১",
+        "type": "CQ",
+        "stem": "প্রেক্ষাপট ১: কী বোর্ডে টাইপিং হচ্ছে। প্রেক্ষাপট ২: ইউটিউবে মুভি দেখছে।",
+        "text": "সৃজনশীল প্রশ্ন:",
+        "subQuestions": [
+          "(ক) ই-কেয়ার কী?",
+          "(খ) ‘আঙ্গুলের ছাপ ও ফেস-রিকগনিশন প্রযুক্তি এক নয়’- ব্যাখ্যা কর।",
+          "(গ) প্রেক্ষাপট ১ এ কোন ডেটা ট্রান্সমিশন মোড ব্যবহৃত হচ্ছে ? ব্যাখ্যা কর।",
+          "(ঘ) প্রেক্ষাপট ১ ও প্রেক্ষাপট ২ এ ব্যবহৃত ডেটা ট্রান্সমিশন মেথড দুইটি বিশ্লেষণ কর।"
+        ],
+        "marks": null
+      }
+    ]
+  },
+  "1lPWwn1aZrxBZmYsrsp3zWKIwSK5AqfeY": {
+    "examHeader": "Mathematics Quiz Full Marks- 25×4 =100 Date: 12/11/2024",
+    "questions": [
+      {
+        "number": "1",
+        "type": "MCQ",
+        "stem": null,
+        "text": "x অক্ষ ও (-5, -7) থেকে (4, k) বিন্দুর দূরত্ব সমান হলে k এর মান-",
+        "subQuestions": [],
+        "options": [
+          "ক. 5",
+          "খ. 15",
+          "গ. -35/7",
+          "ঘ. -65/7"
+        ],
+        "marks": null
+      },
+      {
+        "number": "2",
+        "type": "MCQ",
+        "stem": null,
+        "text": "tan 75° - tan 30° - tan 75°. tan 30°এর মান -",
+        "subQuestions": [],
+        "options": [
+          "ক. 0",
+          "খ. 1",
+          "গ. 1/√2",
+          "ঘ. 1/√3"
+        ],
+        "marks": null
+      },
+      {
+        "number": "3",
+        "type": "MCQ",
+        "stem": null,
+        "text": "একটি ত্রিভুজের শীর্ষবিন্দুগুলো P(1, 2), Q(-3, 0) এবং (3, -2); ত্রিভুজের ভরকেন্দ্র কত ?",
+        "subQuestions": [],
+        "options": [
+          "ক. (1/3, 0)",
+          "খ. (0, 4/3)",
+          "গ. (0, 0)",
+          "ঘ. (1/3, 4/3)"
+        ],
+        "marks": null
+      },
+      {
+        "number": "4",
+        "type": "MCQ",
+        "stem": null,
+        "text": "কোনো বিন্দুর পোলার স্থানাংক (3, 90°) হলে, বিন্দুটির কার্তেসীয় স্থানাংক কত?",
+        "subQuestions": [],
+        "options": [
+          "ক. (3, 0)",
+          "খ. (0, 3)",
+          "গ. (0, -3)",
+          "ঘ. (-3, 0)"
+        ],
+        "marks": null
+      },
+      {
+        "number": "5",
+        "type": "MCQ",
+        "stem": null,
+        "text": "x² + y² - 2ax = 0 সমীকরণটির পোলার সমীকরণ হবে-",
+        "subQuestions": [],
+        "options": [
+          "ক. r = 2a cos θ",
+          "খ. r² = 2a cos θ",
+          "গ. r = 2a sin θ",
+          "ঘ. r² = 2a sin θ"
+        ],
+        "marks": null
+      },
+      {
+        "number": "6",
+        "type": "CQ",
+        "stem": "A(4, -3), B(13, 0) এবং C (-2, 9)",
+        "text": null,
+        "subQuestions": [
+          "ক) P বিন্দুটি একটি সেটের সদস্য যেন, PA : PB = 2 : 3 হয়। P বিন্দুটির সঞ্চারপথের সমীকরণ নির্ণয় কর ।",
+          "খ) ΔABC এর D, E, F বিন্দু তিনটি ত্রিভুজের বাহুগুলির উপর এমনভাবে অবস্থিত যেন, BD/DC = CE/EA = AF/FB = 2. প্রমাণ কর যে, ΔABC : ΔDEF = 3 : 1.",
+          "গ) A এবং C বিন্দু দুইটির সংযোগ রেখাংশকে x-অক্ষ ও y-অক্ষ যে যে অনুপাতে বিভক্ত করে তা নির্ণয় কর ।"
+        ],
+        "options": [],
+        "marks": null
+      },
+      {
+        "number": "7",
+        "type": "CQ",
+        "stem": "f(x) = cotα + cotβ, g(y) = tanα + tanβ এবং h(θ) = tan θ",
+        "text": null,
+        "subQuestions": [
+          "ক) যদি θ = π/20 হয়, তবে দেখাও যে, cot θ . cot 3θ . cot 5θ . cot 7θ ... ... cot 19θ = -1.",
+          "খ) দেখাও যে, h(α + π/3) + h(α - π/3) = (4 sin 2α)/(1-4 sin² α)",
+          "গ) যদি f(x) = a, g(y) = b এবং α + β = θ হয়, প্রমাণ কর যে, (a - b).h(θ) = ab."
+        ],
+        "options": [],
+        "marks": null
+      }
+    ]
+  },
+  "1VQ9Gu4oHOVt4ETk09ll-heF6IQu-EmeC": {
+    "examHeader": "I-B.St. A,B,C,D,E,F Accounting Quiz Full Marks-20x5=100 Date: 27/07/2023",
+    "questions": [
+      {
+        "number": "১",
+        "type": "MCQ",
+        "stem": null,
+        "text": "কোন ভুল অনিশ্চিত হিসাবকে প্রভাবিত করে?",
+        "subQuestions": [],
+        "options": [
+          "(ক) পরিপূরক ভুল",
+          "(খ) বেদাখিলার ভুল",
+          "(গ) খতিয়ানের উদ্বৃত্ত নির্ণয়ে ভুল",
+          "(ঘ) নীতিগত ভুল"
+        ],
+        "marks": "১x৫ = ৫"
+      },
+      {
+        "number": "২",
+        "type": "MCQ",
+        "stem": null,
+        "text": "কোন ভুলের জন্য রেওয়ামিল মিলবে না?",
+        "subQuestions": [],
+        "options": [
+          "(ক) ধারে পণ্য বিক্রয় ৫০০ বিক্রয় জাবেদায় লিখা হয়নি",
+          "(খ) ক্রয় ফেরত ১,৫০০ যা ভুলে বিক্রয় জাবেদা লিপিবদ্ধ হয়েছে।",
+          "(গ) পণ্য ক্রয় ৫,০০০ টাকা যা আসবাবপত্র হিসাবে ডেবিট করা হয়েছে কিন্তু নগদান বইতে সঠিক লিপিবদ্ধ হয়েছে।",
+          "(ঘ) ধারে পণ্য ক্রয় ১০,০০০ টাকা, যা প্রদেয় হিসাবে লেখা হয়নি।"
+        ],
+        "marks": null
+      },
+      {
+        "number": "৩",
+        "type": "MCQ",
+        "stem": "যন্ত্রপাতি বিক্রয় ৫০,০০০ টাকা যা ভুলে বিক্রয় হিসাবে ৫,০০০ টাকা ক্রেডিট করা হয়েছে। এখানে- \ni. একতরফা ভুল ৪৫,০০০ টাকা \nii. দু'তরফা ভুল ৫,০০০ টাকা \niii. নীতিগত ভুল ৫০,০০০ টাকা।",
+        "text": "নিচের কোনটি সঠিক?",
+        "subQuestions": [],
+        "options": [
+          "(ক) i ও ii",
+          "(খ) i ও iii",
+          "(গ) ii ও iii",
+          "(ঘ) i, ii ও iii"
+        ],
+        "marks": null
+      },
+      {
+        "number": "৪",
+        "type": "MCQ",
+        "stem": null,
+        "text": "কোন ভুলটি আর্থিক বিবরণী প্রস্তুতির পর উদ্ঘাটিত হলে সংশোধন দাখিলার প্রয়োজন নেই?",
+        "subQuestions": [],
+        "options": [
+          "(ক) ক্রয় হিসাবের যোগফল ১,৫০০ টাকা কম লেখা হয়েছে।",
+          "(খ) যন্ত্রপাতি ক্রয় ১০,০০০ টাকা যা আসবাবপত্র হিসাবে ডেবিট করা হয়েছে।",
+          "(গ) মজুরি প্রদান ৫০০ টাকা বেতন হিসাবে লেখা হয়েছে।",
+          "(ঘ) মজুরি প্রদান ১,৫০০ টাকা যা ভুলে মজুরি হিসাবে ২ বার ডেবিট করা হয়েছে।"
+        ],
+        "marks": null
+      },
+      {
+        "number": "৫",
+        "type": "MCQ",
+        "stem": null,
+        "text": "অনিশ্চিত হিসাব কোন ধরণের হিসাব?",
+        "subQuestions": [],
+        "options": [
+          "(ক) মূলধন হিসাব",
+          "(খ) ব্যক্তিগত হিসাব",
+          "(গ) সাময়িক হিসাব",
+          "(ঘ) সম্পদ হিসাব"
+        ],
+        "marks": null
+      },
+      {
+        "number": "৬",
+        "type": "CQ",
+        "stem": "সৃজনশীল প্রশ্নঃ ২০২২ সালের ৩১শে ডিসেম্বর তারিখে আবির ট্রেডার্স-এর রেওয়ামিল ছিল নিম্নরূপ যা অনিশ্চিত হিসাব খুলে মেলানো হয়েছে। \n\nরেওয়ামিল \n৩১শে ডিসেম্বর, ২০২২ সাল \n(Table omitted) \n\nরেওয়ামিল প্রস্তুতির পর নিম্নলিখিত ভুলগুলো উদ্ঘাটিত হয়: \n১. পণ্য ক্রয় ২,০০০ টাকা ভুলে ক্রয় হিসাবে ৪,০০০ টাকা লেখা হয়েছে। কিন্তু নগদান বইতে সঠিক লিপিবদ্ধ হয়েছে। \n২. যন্ত্রপাতি সংস্থাপন ব্যয় ৫,০০০ টাকা মজুরির আতির্ক হয়েছে। \n৩. প্রাপ্য হিসাব হতে আদায় ১০,০০০ টাকা ভুলক্রমে প্রাপ্য হিসাবে ডেবিট করা হয়েছে। \n৪. মেরামত খরচ ৫,০০০ টাকা যন্ত্রপাতি হিসাবে ডেবিট করা হয়েছে। \n৫. পণ্য বিক্রয় ২৮,০০০ টাকা, ভুলে বিক্রয় হিসাবে ৮,০০০ টাকা ক্রেডিট করা হয়েছে। \n৬. কমিশন প্রাপ্তি ১০,০০০ টাকা, ভুলে কমিশন হিসাবে ডেবিট করা হয়েছে।",
+        "text": "নিচের প্রশ্নগুলোর উত্তর দাও:",
+        "subQuestions": [
+          "(ক) নীতিগত ভুলের পরিমাণ নির্ণয় কর। ৩",
+          "(খ) উপরের ভুলগুলোর সংশোধন জাবেদা দাখিলা দাও। (ব্যাখ্যার প্রয়োজন নেই) ৫",
+          "(গ) সংশোধন দাখিলা পরবর্তী রেওয়ামিল প্রস্তুত কর! ৫"
+        ],
+        "options": [],
+        "marks": null
+      }
+    ]
+  },
+  "1P_r5bo1VLvF-iJp3AiFj7pk69Uhxz0WH": {
+    "examHeader": "নটর ডেম কলেজ, ঢাকা\nবিষয়: অর্থনীতি (বহুনির্বাচনি অভীক্ষা)\nপ্রথম সাময়িক পরীক্ষা, ২০২৩\nপূর্ণমান: ২০ নম্বর, সময়: ২০ মিনিট",
+    "questions": [
+      {
+        "number": "১",
+        "type": "MCQ",
+        "stem": null,
+        "text": "অর্থনীতিকে 'দুষ্প্রাপ্যতার বিজ্ঞান' বলে আখ্যায়িত করেছেন কোন অর্থনীতিবিদ?",
+        "subQuestions": [],
+        "options": [
+          "(ক) অ্যাডাম স্মিথ",
+          "(খ) আলফ্রেড মার্শাল",
+          "(গ) লায়নেল রবিন্স",
+          "(ঘ) র‍্যাগনার ফ্রিশ"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "২",
+        "type": "MCQ",
+        "stem": null,
+        "text": "কীভাবে উৎপাদন করা হবে- বিষয়টি কোন রেখার সাহায্যে বিশ্লেষণ করা যায়?",
+        "subQuestions": [],
+        "options": [
+          "(ক) উৎপাদন সম্ভাবনা রেখা",
+          "(খ) সম-উৎপাদন রেখা",
+          "(গ) মোট উৎপাদন রেখা",
+          "(ঘ) প্রান্তিক উৎপাদন রেখা"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "৩",
+        "type": "MCQ",
+        "stem": "ব্যষ্টিক অর্থনীতি অর্থনীতির- i) তাত্ত্বিক বিষয় আলোচনা করে ii) তত্ত্বের প্রয়োগ করে iii) এককসমূহকে আনুবিক্ষণিক বিশ্লেষণ করে। নিচের কোনটি সঠিক?",
+        "text": null,
+        "subQuestions": [],
+        "options": [
+          "(ক) i ও ii",
+          "(খ) i ও iii",
+          "(গ) ii ও iii",
+          "(ঘ) i, ii ও iii"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "৪",
+        "type": "MCQ",
+        "stem": null,
+        "text": "জনগণের উৎপাদন স্পৃহা হ্রাস পায় কোন অর্থব্যবস্থায়?",
+        "subQuestions": [],
+        "options": [
+          "(ক) ধনতান্ত্রিক",
+          "(খ) সমাজতান্ত্রিক",
+          "(গ) মিশ্র",
+          "(ঘ) ইসলামি"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "৫",
+        "type": "MCQ",
+        "stem": "অভাব অসীম ও সম্পদের স্বল্পতার কারণে- i) অভাবের গুরুত্ব অনুযায়ী নির্বাচন করতে হয় ii) উপযুক্ত সম্পদ নির্বাচন করতে হয় iii) উৎপাদন পদ্ধতি নির্বাচন করতে হয়। নিচের কোনটি সঠিক?",
+        "text": null,
+        "subQuestions": [],
+        "options": [
+          "(ক) i ও ii",
+          "(খ) i ও iii",
+          "(গ) ii ও iii",
+          "(ঘ) i, ii ও iii"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "৬",
+        "type": "MCQ",
+        "stem": "রফিক বলেন, চাইনিজ রেস্টুরেন্টের স্যুপের চেয়ে মায়ের তৈরি স্যুপের স্বাদ বেশি। এ ক্ষেত্রে কোন উপযোগের নির্দেশ করে?",
+        "text": null,
+        "subQuestions": [],
+        "options": [
+          "(ক) সময়গত",
+          "(খ) স্থানগত",
+          "(গ) পরিমাণগত",
+          "(ঘ) পর্যায়গত"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "৭",
+        "type": "MCQ",
+        "stem": null,
+        "text": "মোট উপযোগের পরিবর্তনকে ভোগের পরিমাণের পরিবর্তন দ্বারা ভাগ করলে কী পাওয়া যায়?",
+        "subQuestions": [],
+        "options": [
+          "(ক) জ্ঞান বিকাশগত উপযোগ",
+          "(খ) মালিকানা স্থানান্তরগত উপযোগ",
+          "(গ) প্রান্তিক উপযোগ",
+          "(ঘ) পর্যায়গত উপযোগ"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "৮",
+        "type": "MCQ",
+        "stem": "প্রান্তিক উপযোগ শূন্য হওয়ার পরও যদি ভোক্তা ভোগ বৃদ্ধি করে তবে- i) মোট উপযোগ হ্রাস পাবে ii) ভোক্তা বাড়তি উপযোগ পাবে iii) প্রান্তিক উপযোগ ঋণাত্মক হবে। নিচের কোনটি সঠিক?",
+        "text": null,
+        "subQuestions": [],
+        "options": [
+          "(ক) i ও ii",
+          "(খ) i ও iii",
+          "(গ) ii ও iii",
+          "(ঘ) i, ii ও iii"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "৯",
+        "type": "MCQ",
+        "stem": "ক্রমহ্রাসমান প্রান্তিক উপযোগ বিধি কার্যকর হবে না যদি- i) দ্রব্যের দুটি একক ভোগের ক্ষেত্রে সময়ের ব্যবধান বেশি হয় ii) দ্রব্যের এককসমূহ সমজাতীয় না হয় iii) দ্রব্যের একক ক্ষুদ্র ক্ষুদ্র অংশে বিভক্ত করা না যায়। নিচের কোনটি সঠিক?",
+        "text": null,
+        "subQuestions": [],
+        "options": [
+          "(ক) i ও ii",
+          "(খ) i ও iii",
+          "(গ) ii ও iii",
+          "(ঘ) i, ii ও iii"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "১০",
+        "type": "MCQ",
+        "stem": null,
+        "text": "Y = 10 - 2X এর ঢাল কোনটি?",
+        "subQuestions": [],
+        "options": [
+          "(ক) -1/2",
+          "(খ) -2",
+          "(গ) -0.5",
+          "(ঘ) -5"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "১১",
+        "type": "MCQ",
+        "stem": null,
+        "text": "ভূমি অক্ষের সমান্তরাল রেখার ঢাল কী হয়?",
+        "subQuestions": [],
+        "options": [
+          "(ক) ঋণাত্মক",
+          "(খ) ধনাত্মক",
+          "(গ) শূন্য",
+          "(ঘ) অসীম"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "১২",
+        "type": "MCQ",
+        "stem": null,
+        "text": "Q = P এর ক্ষেত্রে কোন রেখাটি সঠিক?",
+        "subQuestions": [],
+        "options": [
+          "(ক) (ছবিতে প্রদত্ত রেখা)",
+          "(খ) (ছবিতে প্রদত্ত রেখা)",
+          "(গ) (ছবিতে প্রদত্ত রেখা)",
+          "(ঘ) (ছবিতে প্রদত্ত রেখা)"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "১৩",
+        "type": "MCQ",
+        "stem": null,
+        "text": "কোন রেখায় চাহিদা বিধি কার্যকর হবে?",
+        "subQuestions": [],
+        "options": [
+          "(ক) (ছবিতে প্রদত্ত রেখা)",
+          "(খ) (ছবিতে প্রদত্ত রেখা)",
+          "(গ) (ছবিতে প্রদত্ত রেখা)",
+          "(ঘ) (ছবিতে প্রদত্ত রেখা)"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "১৪",
+        "type": "MCQ",
+        "stem": "নিচের উদ্দীপক হতে ১৪ ও ১৫ নং প্রশ্নের উত্তর দাও।\nদাম (P) = 1, চাহিদা পরিমাণ (Q) = 30 একক\nদাম (P) = 2, চাহিদা পরিমাণ (Q) = 20 একক",
+        "text": "সূচি অনুযায়ী চাহিদা সমীকরণ হবে কোনটি?",
+        "subQuestions": [],
+        "options": [
+          "(ক) Q = 30 - 10P",
+          "(খ) Q = 30 - 5P",
+          "(গ) Q = 40 - 10P",
+          "(ঘ) Q = 40 - 5P"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "১৫",
+        "type": "MCQ",
+        "stem": "উদ্দীপক অনুযায়ী- i) চাহিদার স্থিতিস্থাপকতার মান হবে একের চেয়ে কম ii) নিত্যপ্রয়োজনীয় দ্রব্য নির্দেশ করবে iii) দ্রব্যের উদাহরণ হবে গহনা। নিচের কোনটি সঠিক?",
+        "text": null,
+        "subQuestions": [],
+        "options": [
+          "(ক) i ও ii",
+          "(খ) i ও iii",
+          "(গ) ii ও iii",
+          "(ঘ) i, ii ও iii"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "১৬",
+        "type": "MCQ",
+        "stem": "নিচের উদ্দীপক হতে ১৬ ও ১৭ নং প্রশ্নের উত্তর দাও।\n(MP রেখার চিত্র)",
+        "text": "উদ্দীপকের রেখা কোনটি?",
+        "subQuestions": [],
+        "options": [
+          "(ক) মোট উৎপাদন রেখা",
+          "(খ) গড় উৎপাদন রেখা",
+          "(গ) প্রান্তিক উৎপাদন রেখা",
+          "(ঘ) সম-উৎপাদন রেখা"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "১৭",
+        "type": "MCQ",
+        "stem": "রেখার- i) ab অংশে ক্রমবর্তমান প্রান্তিক উৎপাদন বিধি কার্যকর ii) bc অংশে স্থির মাত্রাগত উৎপাদন কার্যকর iii) cd অংশে ক্রমহ্রাসমান প্রান্তিক উৎপাদন বিধি কার্যকর। নিচের কোনটি সঠিক?",
+        "text": null,
+        "subQuestions": [],
+        "options": [
+          "(ক) i ও ii",
+          "(খ) i ও iii",
+          "(গ) ii ও iii",
+          "(ঘ) i, ii ও iii"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "১৮",
+        "type": "MCQ",
+        "stem": null,
+        "text": "উৎপাদনের উৎপাদিত উপকরণ বলা হয় কোনটিকে?",
+        "subQuestions": [],
+        "options": [
+          "(ক) ভূমি",
+          "(খ) শ্রম",
+          "(গ) মূলধন",
+          "(ঘ) সংগঠন"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "১৯",
+        "type": "MCQ",
+        "stem": null,
+        "text": "কোনটি উৎপাদনের জীবন্ত উপকরণ?",
+        "subQuestions": [],
+        "options": [
+          "(ক) ভূমি",
+          "(খ) শ্রম",
+          "(গ) মূলধন",
+          "(ঘ) সংগঠন"
+        ],
+        "marks": "১"
+      },
+      {
+        "number": "২০",
+        "type": "MCQ",
+        "stem": null,
+        "text": "চাহিদার আয় স্থিতিস্থাপকতার মান, Ey = -1 হলে দ্রব্যের প্রকৃতি কীরূপ হবে?",
+        "subQuestions": [],
+        "options": [
+          "(ক) নিত্যপ্রয়োজনীয় দ্রব্য",
+          "(খ) বিলাস দ্রব্য",
+          "(গ) উৎকৃষ্ট দ্রব্য",
+          "(ঘ) নিকৃষ্ট দ্রব্য"
+        ],
+        "marks": "১"
+      }
+    ]
+  }
+}

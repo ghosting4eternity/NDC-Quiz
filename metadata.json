@@ -1,0 +1,6 @@
+{
+  "name": "NDC Quiz Archive",
+  "description": "An organized digital repository of Notre Dame College weekly Quiz examination questions. Explore past papers, discover questions by subject, and access the academic history of NDC Quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

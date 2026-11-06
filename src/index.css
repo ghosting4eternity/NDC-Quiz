@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-heading: 'Cinzel', 'Noto Serif Bengali', Georgia, serif;
+    --font-body: 'Plus Jakarta Sans', 'Noto Sans Bengali', system-ui, sans-serif;
+    --font-code: 'JetBrains Mono', monospace;
+  }
+
+  body {
+    font-family: var(--font-body);
+    color: #1c1917;
+    background-color: #fafaf7;
+  }
+
+  h1, h2, h3, .font-heading {
+    font-family: var(--font-heading);
+  }
+}
+
+.bengali-text {
+  font-family: 'Noto Sans Bengali', 'Plus Jakarta Sans', sans-serif;
+  line-height: 1.65;
+}
+
+.bengali-heading {
+  font-family: 'Noto Serif Bengali', 'Cinzel', Georgia, serif;
+}
+
+/* Custom subtle scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f5f5f4;
+}
+::-webkit-scrollbar-thumb {
+  background: #d6d3d1;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #a8a29e;
+}
+
+/* Print optimizations */
+@media print {
+  header, footer, nav, button, .no-print {
+    display: none !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+  body {
+    background: white !important;
+    color: black !important;
+  }
+}
